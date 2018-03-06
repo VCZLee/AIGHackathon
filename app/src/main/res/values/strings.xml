@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AIG Instant Claim Handler</string>
+    <string name="report_claims_button">Report A Claim</string>
+    <string name="Claims_Reporting_Form_Title">Claim Details</string>
+    <string name="Policy_Number">Policy Number</string>
+    <string name="accident_date">Accident Date</string>
+    <string name="claim_type">Type of Claim</string>
+    <string name="claim_description">Describe the circumstances of your claim</string>
+    <string name="accident_location">Accident Address</string>
+    <string-array name="claim_type">
+        <item>Worker\'s Compensation</item>
+        <item>Commercial Property</item>
+        <item>General Liability</item>
+        <item>Auto Liability</item>
+        <item>Errors and Omissions</item>
+    </string-array>
+</resources>
